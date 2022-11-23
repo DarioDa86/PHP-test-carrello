@@ -1,0 +1,1 @@
+<p class="lead">pagina admin products-list</p>
